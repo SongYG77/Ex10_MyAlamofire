@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Ex10_MyAlamofire/Pods-Ex10_MyAlamofire-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
